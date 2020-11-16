@@ -31,6 +31,11 @@ You can look further in the code of this project in the repository.
 
 
 
+# Findings
+I was really amazed by the fact how easy it was to create some insightful visualization from this dataset. This gave me a better idea on using data that can help in making lasting changes to my health.
+
+
+
 # Challenges
 The challenge for this project was to get data from an iphone to a readable format like a CSV file. Once that was done, it was a straightforward project.
 
